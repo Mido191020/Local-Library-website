@@ -3,9 +3,9 @@ extends layout
 block content
   h1= title
 
-  if bookinstance_list.length
+  if bookinstance.length
     ul
-      each val in bookinstance_list
+      each val in bookinstance
         li
           a(href=val.url) #{val.book.title} : #{val.imprint} -&nbsp;
           if val.status=='Available'
