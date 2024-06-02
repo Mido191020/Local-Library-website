@@ -7,7 +7,6 @@ block content
     ul
       each genre in genre_list
         li
-          a(href=genre.url)= genre.name
-         
+          a(href=`/catalog/genres/${genre._id}`) #{genre.name}
   else
     p There are no genres.

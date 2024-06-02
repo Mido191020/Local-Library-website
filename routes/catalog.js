@@ -12,32 +12,40 @@ console.log("Catalog routes are being set up");
 
 // Mount routes for each resource
 router.get("/", bookController.index);
+
+// Books routes - handle both singular and plural
 router.use(
-  "/books",
+  ["/book", "/books"],
   (req, res, next) => {
     console.log("Books route hit");
     next();
   },
   booksRouter
 );
+
+// Authors routes - handle both singular and plural
 router.use(
-  "/authors",
+  ["/author", "/authors"],
   (req, res, next) => {
     console.log("Authors route hit");
     next();
   },
   authorsRouter
 );
+
+// Genres routes - handle both singular and plural
 router.use(
-  "/genres",
+  ["/genre", "/genres"],
   (req, res, next) => {
     console.log("Genres route hit");
     next();
   },
   genresRouter
 );
+
+// BookInstances routes - handle both singular and plural
 router.use(
-  "/bookinstances",
+  ["/bookinstance", "/bookinstances"],
   (req, res, next) => {
     console.log("BookInstances route hit");
     next();

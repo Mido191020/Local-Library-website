@@ -1,15 +1,18 @@
 const mongoose = require("mongoose");
 const { DateTime } = require("luxon");
+const Book = require("../models/book");
 
 const AuthorSchema = new mongoose.Schema({
-  firstNmae: {
+  firstName: {
+    // Changed from firstNmae
     type: String,
-    required: true,
+    required: true, // Uncommented this
     maxLength: 100,
   },
-  familyNmae: {
+  familyName: {
+    // Changed from familyNmae
     type: String,
-    required: true,
+    required: true, // Uncommented this
     maxLength: 100,
   },
   date_of_birth: { type: Date },
@@ -18,7 +21,7 @@ const AuthorSchema = new mongoose.Schema({
 AuthorSchema.virtual("name").get(function () {
   let fullname = "";
   if (this.firstName && this.familyName) {
-    fullname = `${this.firstNmae}, ${this.familyNmae}`;
+    fullname = `${this.familyName}, ${this.firstName}`; // Swapped order and fixed typos
   }
   return fullname;
 });

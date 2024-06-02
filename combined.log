@@ -1,0 +1,286 @@
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/genre/6647aebbd0b904774fe820b6"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"error","message":"Error: Not Found"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"Request URL: /catalog"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/books"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/book/6647b0be99e9bde304da7921"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"error","message":"Error: Not Found"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/book/6647b0be99e9bde304da7923"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"error","message":"Error: Not Found"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/book/6647b0be99e9bde304da7920"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"error","message":"Error: Not Found"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"Request URL: /catalog"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/books"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/authors"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/genres"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/bookinstances"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/bookinstance/6647b0bf99e9bde304da792d"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"error","message":"Error: Not Found"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/authors"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/genres"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/genre/664a6c7cd7ef4bec3ba80670"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"error","message":"Error: Not Found"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/books"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/authors"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/bookinstances"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/authors"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/genres"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"Request URL: /catalog"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/books"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/genres"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/bookinstances"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"Request URL: /"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"Request URL: /"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/bookinstances"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"Request URL: /"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/books"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/authors"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/genres"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/genre/665b026ca720cd0cffe3a306"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"error","message":"Error: Not Found"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/bookinstances"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/bookinstance/665b026fa720cd0cffe3a320"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"error","message":"Error: Not Found"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/bookinstance/665b026fa720cd0cffe3a325"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"error","message":"Error: Not Found"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"DB connection successful!"}
+{"level":"info","message":"Request URL: /catalog"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/authors"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /catalog/author/665b026ea720cd0cffe3a30c"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"error","message":"Error: Not Found"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"Request URL: /stylesheets/style.css"}
+{"level":"info","message":"Request Method: GET"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-01T12:02:43.085Z"}
+{"level":"info","message":"GET /","timestamp":"2024-06-01T12:02:53.649Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-01T12:02:56.736Z"}
+{"level":"info","message":"GET /catalog/authors","timestamp":"2024-06-01T12:03:00.146Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-01T12:03:00.801Z"}
+{"level":"info","message":"GET /catalog/author/665b026ea720cd0cffe3a30c","timestamp":"2024-06-01T12:03:02.653Z"}
+{"level":"error","message":"Error: Not Found","timestamp":"2024-06-01T12:03:02.660Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-01T12:03:02.835Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-01T12:05:29.803Z"}
+{"level":"info","message":"GET /catalog/author/665b026ea720cd0cffe3a30c","timestamp":"2024-06-01T12:08:11.877Z"}
+{"level":"error","message":"Error: Not Found","timestamp":"2024-06-01T12:08:11.946Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-01T12:08:13.389Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-01T12:12:25.105Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-01T12:12:30.859Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-01T12:12:33.232Z"}
+{"level":"info","message":"GET /catalog/authors","timestamp":"2024-06-01T12:12:35.875Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-01T12:12:36.460Z"}
+{"level":"info","message":"GET /catalog/author/665b026ea720cd0cffe3a30c","timestamp":"2024-06-01T12:12:40.105Z"}
+{"level":"error","message":"Error: Not Found","timestamp":"2024-06-01T12:12:40.112Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-01T12:12:40.285Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-01T12:12:59.378Z"}
+{"level":"info","message":"GET /catalog/authors/665b026ea720cd0cffe3a30c","timestamp":"2024-06-01T12:13:04.518Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-01T12:13:05.900Z"}
+{"level":"error","message":"MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2024-06-02T02:37:27.127Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-02T03:18:10.530Z"}
+{"level":"info","message":"GET /","timestamp":"2024-06-02T03:18:17.509Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:18:21.516Z"}
+{"level":"info","message":"GET /catalog/authors","timestamp":"2024-06-02T03:18:23.869Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\author_list.pug:18:1\n\nDeclaration of template inheritance (\"extends\") should be the first thing in the file. There can only be one extends statement per file.","timestamp":"2024-06-02T03:18:24.071Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:18:24.184Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-02T03:18:46.952Z"}
+{"level":"info","message":"GET /catalog/authors","timestamp":"2024-06-02T03:18:49.447Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:18:50.063Z"}
+{"level":"info","message":"GET /catalog/authors/665b026ea720cd0cffe3a30c","timestamp":"2024-06-02T03:18:52.614Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\author_detail.pug:20:1\n\nDeclaration of template inheritance (\"extends\") should be the first thing in the file. There can only be one extends statement per file.","timestamp":"2024-06-02T03:18:52.797Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:18:52.873Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-02T03:19:25.720Z"}
+{"level":"info","message":"GET /catalog/authors/665b026ea720cd0cffe3a30c","timestamp":"2024-06-02T03:19:28.805Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:19:29.335Z"}
+{"level":"info","message":"GET /catalog/books","timestamp":"2024-06-02T03:19:58.112Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:19:58.564Z"}
+{"level":"info","message":"GET /catalog/book/665b026fa720cd0cffe3a31a","timestamp":"2024-06-02T03:19:59.923Z"}
+{"level":"error","message":"Error: Not Found","timestamp":"2024-06-02T03:19:59.924Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:19:59.998Z"}
+{"level":"info","message":"GET /catalog/books/665b026fa720cd0cffe3a31a","timestamp":"2024-06-02T03:20:04.683Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:20:05.080Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-02T03:42:51.010Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-02T03:42:57.981Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:43:02.205Z"}
+{"level":"info","message":"GET /catalog/books","timestamp":"2024-06-02T03:43:04.465Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:43:06.782Z"}
+{"level":"info","message":"GET /catalog/books/665b026fa720cd0cffe3a31a","timestamp":"2024-06-02T03:43:08.854Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:43:09.253Z"}
+{"level":"info","message":"GET /catalog/authors/665b026ea720cd0cffe3a310","timestamp":"2024-06-02T03:43:12.207Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:43:12.486Z"}
+{"level":"info","message":"GET /catalog/bookinstances","timestamp":"2024-06-02T03:43:19.186Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:43:19.689Z"}
+{"level":"info","message":"GET /catalog/bookinstances/665b026fa720cd0cffe3a320","timestamp":"2024-06-02T03:43:21.320Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:43:21.690Z"}
+{"level":"info","message":"GET /catalog/genres","timestamp":"2024-06-02T03:43:24.547Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:43:24.768Z"}
+{"level":"info","message":"GET /catalog/genres/665b026ca720cd0cffe3a306","timestamp":"2024-06-02T03:43:25.613Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:43:25.841Z"}
+{"level":"info","message":"GET /catalog/genres/665b026ca720cd0cffe3a302","timestamp":"2024-06-02T03:43:28.804Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:43:29.024Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-02T03:43:33.941Z"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"create\" (type string) at path \"_id\" for model \"Book\"","timestamp":"2024-06-02T03:43:33.944Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:43:34.033Z"}
+{"level":"info","message":"GET /catalog/books","timestamp":"2024-06-02T03:43:38.440Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:43:38.814Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-02T03:43:39.735Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:43:39.964Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-02T03:50:09.225Z"}
+{"level":"info","message":"GET /catalog/bookinstances","timestamp":"2024-06-02T03:50:15.531Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:50:16.499Z"}
+{"level":"info","message":"GET /catalog/bookinstances/665b026fa720cd0cffe3a320","timestamp":"2024-06-02T03:50:17.849Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:50:18.223Z"}
