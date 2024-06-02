@@ -33,10 +33,3 @@ This is an Express.js application for managing a local library. The application 
    ```
    http://localhost:3000
    ```
-
-
-
-I am working on the Express Tutorial : [Tutorial]([https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data/Genre_detail_page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)).
-
----
-
