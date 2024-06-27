@@ -284,3 +284,342 @@
 {"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:50:16.499Z"}
 {"level":"info","message":"GET /catalog/bookinstances/665b026fa720cd0cffe3a320","timestamp":"2024-06-02T03:50:17.849Z"}
 {"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-02T03:50:18.223Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-06T10:24:29.698Z"}
+{"level":"info","message":"GET /","timestamp":"2024-06-06T10:24:37.154Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:24:41.079Z"}
+{"level":"info","message":"GET /favicon.ico","timestamp":"2024-06-06T10:24:41.493Z"}
+{"level":"error","message":"Error: Not Found","timestamp":"2024-06-06T10:24:41.496Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-06T10:24:44.954Z"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"create\" (type string) at path \"_id\" for model \"Book\"","timestamp":"2024-06-06T10:24:44.964Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:24:45.059Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-06T10:24:51.719Z"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"create\" (type string) at path \"_id\" for model \"Author\"","timestamp":"2024-06-06T10:24:51.724Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:24:51.784Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-06T10:24:53.431Z"}
+{"level":"error","message":"Error: Invalid Genre ID","timestamp":"2024-06-06T10:24:53.434Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:24:53.496Z"}
+{"level":"info","message":"GET /catalog/bookinstances/create","timestamp":"2024-06-06T10:24:55.347Z"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"create\" (type string) at path \"_id\" for model \"BookInstance\"","timestamp":"2024-06-06T10:24:55.349Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:24:55.417Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-06T10:24:57.510Z"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"create\" (type string) at path \"_id\" for model \"Book\"","timestamp":"2024-06-06T10:24:57.511Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:24:57.582Z"}
+{"level":"info","message":"GET /catalog/book/create","timestamp":"2024-06-06T10:25:43.345Z"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"create\" (type string) at path \"_id\" for model \"Book\"","timestamp":"2024-06-06T10:25:43.348Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:25:43.521Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-06T10:28:44.457Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-06T10:28:45.995Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:28:47.525Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-06T10:28:51.569Z"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"create\" (type string) at path \"_id\" for model \"Book\"","timestamp":"2024-06-06T10:28:51.578Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:28:51.665Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-06T10:28:53.154Z"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"create\" (type string) at path \"_id\" for model \"Author\"","timestamp":"2024-06-06T10:28:53.158Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:28:53.227Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-06T10:28:53.940Z"}
+{"level":"error","message":"Error: Invalid Genre ID","timestamp":"2024-06-06T10:28:53.942Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:28:54.006Z"}
+{"level":"info","message":"GET /catalog/bookinstances/create","timestamp":"2024-06-06T10:28:54.430Z"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"create\" (type string) at path \"_id\" for model \"BookInstance\"","timestamp":"2024-06-06T10:28:54.431Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:28:54.494Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-06T10:28:57.416Z"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"create\" (type string) at path \"_id\" for model \"Book\"","timestamp":"2024-06-06T10:28:57.419Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:28:57.481Z"}
+{"level":"info","message":"GET /catalog/books/new","timestamp":"2024-06-06T10:29:01.280Z"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"new\" (type string) at path \"_id\" for model \"Book\"","timestamp":"2024-06-06T10:29:01.282Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-06T10:29:01.353Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-12T08:52:43.244Z"}
+{"level":"info","message":"GET /","timestamp":"2024-06-12T08:52:59.002Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-12T08:53:03.696Z"}
+{"level":"info","message":"GET /favicon.ico","timestamp":"2024-06-12T08:53:04.212Z"}
+{"level":"error","message":"Error: Not Found","timestamp":"2024-06-12T08:53:04.214Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-12T08:54:39.748Z"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"create\" (type string) at path \"_id\" for model \"Book\"","timestamp":"2024-06-12T08:54:39.756Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-12T08:54:39.854Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-12T08:59:44.466Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-12T08:59:52.517Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-12T08:59:53.882Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-12T08:59:55.734Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-12T08:59:55.999Z"}
+{"level":"info","message":"POST /catalog/books/create","timestamp":"2024-06-12T09:00:44.954Z"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'genre')","timestamp":"2024-06-12T09:00:44.957Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-12T09:00:45.064Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-12T09:03:52.796Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-12T09:04:05.163Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-12T09:04:24.800Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-12T09:04:36.938Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-12T09:04:47.551Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-12T09:04:53.386Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-12T09:05:23.954Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-12T09:06:49.979Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-12T09:06:53.778Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-12T09:06:55.183Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-12T09:06:55.378Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-12T09:06:55.591Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-12T09:06:57.591Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-12T09:06:57.882Z"}
+{"level":"info","message":"POST /catalog/books/create","timestamp":"2024-06-12T09:07:27.631Z"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'genre')","timestamp":"2024-06-12T09:07:27.633Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-12T09:07:27.703Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-12T09:13:03.366Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-12T09:13:08.839Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-12T09:13:09.448Z"}
+{"level":"info","message":"POST /catalog/books/create","timestamp":"2024-06-12T09:13:31.733Z"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'genre')","timestamp":"2024-06-12T09:13:31.736Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-12T09:13:31.819Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-12T09:13:42.252Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-14T11:49:23.689Z"}
+{"level":"info","message":"GET /","timestamp":"2024-06-14T11:49:28.768Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-14T11:49:36.126Z"}
+{"level":"info","message":"GET /favicon.ico","timestamp":"2024-06-14T11:49:36.752Z"}
+{"level":"error","message":"Error: Not Found","timestamp":"2024-06-14T11:49:36.756Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-14T11:49:39.112Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-14T11:49:39.656Z"}
+{"level":"info","message":"POST /catalog/books/create","timestamp":"2024-06-14T11:49:57.809Z"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'genre')","timestamp":"2024-06-14T11:49:57.814Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-14T11:49:57.931Z"}
+{"level":"info","message":"GET /catalog/books","timestamp":"2024-06-14T12:01:33.105Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-14T12:01:33.789Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-14T12:01:35.586Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-14T12:01:36.001Z"}
+{"level":"info","message":"POST /catalog/books/create","timestamp":"2024-06-14T12:01:52.128Z"}
+{"level":"error","message":"Error: Cannot read properties of undefined (reading 'genre')","timestamp":"2024-06-14T12:01:52.131Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-14T12:01:52.238Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-14T12:03:52.842Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-14T12:03:53.144Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-14T12:03:55.051Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-14T12:03:55.209Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-26T22:31:22.983Z"}
+{"level":"info","message":"GET /","timestamp":"2024-06-27T01:53:17.448Z"}
+{"level":"info","message":"GET /new","timestamp":"2024-06-27T01:53:21.677Z"}
+{"level":"error","message":"Error: Not Found","timestamp":"2024-06-27T01:53:21.717Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T01:53:22.531Z"}
+{"level":"info","message":"GET /favicon.ico","timestamp":"2024-06-27T01:53:24.241Z"}
+{"level":"error","message":"Error: Not Found","timestamp":"2024-06-27T01:53:24.242Z"}
+{"level":"info","message":"GET /","timestamp":"2024-06-27T01:58:46.505Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T01:58:51.950Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-27T01:58:54.328Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T01:58:54.840Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-27T01:58:56.311Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T01:58:56.404Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T01:58:59.477Z"}
+{"level":"error","message":"Error: Failed to lookup view \"genre_form\" in views directory \"C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\"","timestamp":"2024-06-27T01:58:59.480Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T01:58:59.546Z"}
+{"level":"info","message":"GET /catalog/bookinstances/create","timestamp":"2024-06-27T01:59:01.478Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T01:59:01.821Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T01:59:03.540Z"}
+{"level":"error","message":"Error: Failed to lookup view \"genre_form\" in views directory \"C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\"","timestamp":"2024-06-27T01:59:03.542Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T01:59:03.608Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-27T02:05:32.163Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:05:33.497Z"}
+{"level":"info","message":"GET /catalog/bookinstances/create","timestamp":"2024-06-27T02:05:45.187Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:05:46.446Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T02:05:47.819Z"}
+{"level":"error","message":"Error: Failed to lookup view \"genre_form\" in views directory \"C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\"","timestamp":"2024-06-27T02:05:47.833Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:05:47.899Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T02:07:30.821Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-27T02:07:34.389Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:07:35.206Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T02:07:39.596Z"}
+{"level":"error","message":"Error: Failed to lookup view \"genre_form\" in views directory \"C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\"","timestamp":"2024-06-27T02:07:39.599Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:07:39.688Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T02:25:35.635Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:25:39.557Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T02:25:41.543Z"}
+{"level":"error","message":"Error: Failed to lookup view \"genre_form\" in views directory \"C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\"","timestamp":"2024-06-27T02:25:41.927Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:25:42.029Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T02:25:44.980Z"}
+{"level":"error","message":"Error: Failed to lookup view \"genre_form\" in views directory \"C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\"","timestamp":"2024-06-27T02:25:44.982Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:25:45.031Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-27T02:25:47.647Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:25:47.721Z"}
+{"level":"info","message":"GET /catalog/bookinstances/create","timestamp":"2024-06-27T02:25:49.596Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:25:49.972Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T02:25:50.624Z"}
+{"level":"error","message":"Error: Failed to lookup view \"genre_form\" in views directory \"C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\"","timestamp":"2024-06-27T02:25:50.625Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:25:50.684Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T02:27:30.987Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-27T02:27:36.646Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:27:39.327Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-27T02:27:42.329Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:27:42.422Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T02:27:45.326Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:27:45.399Z"}
+{"level":"info","message":"POST /catalog/genres/create","timestamp":"2024-06-27T02:28:04.575Z"}
+{"level":"error","message":"Error: Not Found","timestamp":"2024-06-27T02:28:04.604Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:28:04.663Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T02:34:45.868Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-27T02:34:54.067Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:34:55.008Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T02:34:56.445Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:34:56.532Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T02:43:47.746Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-27T02:43:56.205Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:43:57.762Z"}
+{"level":"info","message":"GET /catalog/books","timestamp":"2024-06-27T02:44:01.701Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:44:02.296Z"}
+{"level":"info","message":"GET /catalog/authors","timestamp":"2024-06-27T02:44:03.396Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:44:03.820Z"}
+{"level":"info","message":"GET /catalog/genres","timestamp":"2024-06-27T02:44:04.626Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:44:04.858Z"}
+{"level":"info","message":"GET /catalog/bookinstances","timestamp":"2024-06-27T02:44:05.887Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:44:06.279Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T02:44:09.180Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:44:09.269Z"}
+{"level":"info","message":"POST /catalog/genres/create","timestamp":"2024-06-27T02:44:16.146Z"}
+{"level":"error","message":"Error: Not Found","timestamp":"2024-06-27T02:44:16.176Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:44:16.229Z"}
+{"level":"info","message":"GET /catalog/bookinstances/create","timestamp":"2024-06-27T02:46:26.227Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:46:26.438Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T02:46:27.806Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:46:27.869Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-27T02:46:28.560Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:46:28.624Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-27T02:46:29.987Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:46:30.201Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T02:46:32.491Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:46:32.553Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-27T02:46:33.729Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:46:33.796Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T02:46:34.582Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:46:34.637Z"}
+{"level":"info","message":"POST /catalog/genres/create","timestamp":"2024-06-27T02:47:48.716Z"}
+{"level":"error","message":"Error: Not Found","timestamp":"2024-06-27T02:47:48.720Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T02:47:48.759Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T02:55:32.100Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T02:58:25.017Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T02:59:38.329Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:00:56.973Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-27T03:01:04.923Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:01:06.444Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T03:01:08.918Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:01:09.054Z"}
+{"level":"info","message":"GET /catalog/genres","timestamp":"2024-06-27T03:01:19.607Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:01:19.876Z"}
+{"level":"info","message":"GET /catalog/genres/665b026ca720cd0cffe3a303","timestamp":"2024-06-27T03:01:21.296Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:01:21.547Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T03:01:24.989Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:01:25.068Z"}
+{"level":"info","message":"POST /catalog/genres/create","timestamp":"2024-06-27T03:01:27.886Z"}
+{"level":"info","message":"GET /catalog/genre/665b026ca720cd0cffe3a303","timestamp":"2024-06-27T03:01:28.100Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:01:28.350Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T03:01:34.256Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:01:34.352Z"}
+{"level":"info","message":"POST /catalog/genres/create","timestamp":"2024-06-27T03:01:38.047Z"}
+{"level":"info","message":"GET /catalog/genre/667cd612eea8f2c1ecf90033","timestamp":"2024-06-27T03:01:38.378Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:01:38.682Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T03:01:43.058Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:01:43.141Z"}
+{"level":"info","message":"POST /catalog/genres/create","timestamp":"2024-06-27T03:01:49.674Z"}
+{"level":"info","message":"GET /catalog/genre/667cd61deea8f2c1ecf90038","timestamp":"2024-06-27T03:01:49.981Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:01:50.224Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-27T03:01:59.829Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:01:59.915Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-27T03:02:01.142Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:02:01.406Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:04:06.502Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:13:26.324Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:18:28.144Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:18:35.530Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:18:45.236Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:20:46.074Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:21:07.786Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-27T03:21:13.206Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\layout.pug:118\n    116|                 a(href='/catalog/bookinstances/create') Create new book instance (copy)\n    117|         div(class='col-sm-10')\n  > 118|         if messages.error_msg\n    119|   .alert.alert-danger\n    120|     = messages.error_msg\n    121| if messages.success_msg\n\nCannot read properties of undefined (reading 'error_msg')","timestamp":"2024-06-27T03:21:13.782Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:22:20.658Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-27T03:22:27.182Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\layout.pug:118\n    116|                 a(href='/catalog/bookinstances/create') Create new book instance (copy)\n    117|         div(class='col-sm-10')\n  > 118|         if messages.error_msg\n    119|   .alert.alert-danger\n    120|     = messages.error_msg\n    121| if messages.success_msg\n\nCannot read properties of undefined (reading 'error_msg')","timestamp":"2024-06-27T03:22:27.956Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:35:25.463Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:35:54.330Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:36:04.038Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:40:50.202Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:40:54.650Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-27T03:40:56.231Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\layout.pug:38\n    36|                 a(href='/catalog/bookinstances/create') Create new book instance (copy)\n    37|         div(class='col-sm-10')\n  > 38|         if messages.error_msg\n    39|   .alert.alert-danger\n    40|     = messages.error_msg\n    41| if messages.success_msg\n\nCannot read properties of undefined (reading 'error_msg')","timestamp":"2024-06-27T03:40:57.767Z"}
+{"level":"info","message":"GET /catalog/books","timestamp":"2024-06-27T03:41:03.896Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\layout.pug:38\n    36|                 a(href='/catalog/bookinstances/create') Create new book instance (copy)\n    37|         div(class='col-sm-10')\n  > 38|         if messages.error_msg\n    39|   .alert.alert-danger\n    40|     = messages.error_msg\n    41| if messages.success_msg\n\nCannot read properties of undefined (reading 'error_msg')","timestamp":"2024-06-27T03:41:04.219Z"}
+{"level":"info","message":"GET /catalog/authors","timestamp":"2024-06-27T03:41:08.216Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\layout.pug:38\n    36|                 a(href='/catalog/bookinstances/create') Create new book instance (copy)\n    37|         div(class='col-sm-10')\n  > 38|         if messages.error_msg\n    39|   .alert.alert-danger\n    40|     = messages.error_msg\n    41| if messages.success_msg\n\nCannot read properties of undefined (reading 'error_msg')","timestamp":"2024-06-27T03:41:08.416Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-27T03:41:20.590Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\layout.pug:38\n    36|                 a(href='/catalog/bookinstances/create') Create new book instance (copy)\n    37|         div(class='col-sm-10')\n  > 38|         if messages.error_msg\n    39|   .alert.alert-danger\n    40|     = messages.error_msg\n    41| if messages.success_msg\n\nCannot read properties of undefined (reading 'error_msg')","timestamp":"2024-06-27T03:41:20.615Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:41:22.539Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T03:41:23.587Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\layout.pug:38\n    36|                 a(href='/catalog/bookinstances/create') Create new book instance (copy)\n    37|         div(class='col-sm-10')\n  > 38|         if messages.error_msg\n    39|   .alert.alert-danger\n    40|     = messages.error_msg\n    41| if messages.success_msg\n\nCannot read properties of undefined (reading 'error_msg')","timestamp":"2024-06-27T03:41:23.606Z"}
+{"level":"info","message":"GET /catalog/bookinstances/create","timestamp":"2024-06-27T03:41:26.557Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\layout.pug:38\n    36|                 a(href='/catalog/bookinstances/create') Create new book instance (copy)\n    37|         div(class='col-sm-10')\n  > 38|         if messages.error_msg\n    39|   .alert.alert-danger\n    40|     = messages.error_msg\n    41| if messages.success_msg\n\nCannot read properties of undefined (reading 'error_msg')","timestamp":"2024-06-27T03:41:26.730Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:42:27.100Z"}
+{"level":"info","message":"GET /","timestamp":"2024-06-27T03:42:36.650Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\layout.pug:38\n    36|                 a(href='/catalog/bookinstances/create') Create new book instance (copy)\n    37|         div(class='col-sm-10')\n  > 38|         if messages.error_msg\n    39|   .alert.alert-danger\n    40|     = messages.error_msg\n    41| if messages.success_msg\n\nCannot read properties of undefined (reading 'error_msg')","timestamp":"2024-06-27T03:42:38.167Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:45:02.112Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:45:27.928Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:47:03.522Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:47:42.213Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:49:41.228Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:49:59.025Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:50:15.701Z"}
+{"level":"info","message":"GET /","timestamp":"2024-06-27T03:50:33.174Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\layout.pug:38\n    36|                 a(href='/catalog/bookinstances/create') Create new book instance (copy)\n    37|         div(class='col-sm-10')\n  > 38|         if messages.error_msg\n    39|   .alert.alert-danger\n    40|     = messages.error_msg\n    41| if messages.success_msg\n\nCannot read properties of undefined (reading 'error_msg')","timestamp":"2024-06-27T03:50:34.434Z"}
+{"level":"info","message":"GET /","timestamp":"2024-06-27T03:50:37.022Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\layout.pug:38\n    36|                 a(href='/catalog/bookinstances/create') Create new book instance (copy)\n    37|         div(class='col-sm-10')\n  > 38|         if messages.error_msg\n    39|   .alert.alert-danger\n    40|     = messages.error_msg\n    41| if messages.success_msg\n\nCannot read properties of undefined (reading 'error_msg')","timestamp":"2024-06-27T03:50:37.193Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:51:25.970Z"}
+{"level":"info","message":"GET /","timestamp":"2024-06-27T03:51:31.762Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:51:33.440Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-27T03:51:36.827Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:51:37.074Z"}
+{"level":"info","message":"GET /catalog/books","timestamp":"2024-06-27T03:51:38.229Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:51:38.632Z"}
+{"level":"info","message":"GET /catalog/authors","timestamp":"2024-06-27T03:51:39.341Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:51:39.704Z"}
+{"level":"info","message":"GET /catalog/genres","timestamp":"2024-06-27T03:51:40.637Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:51:40.851Z"}
+{"level":"info","message":"GET /catalog/bookinstances","timestamp":"2024-06-27T03:51:41.762Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:51:42.131Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-27T03:51:43.420Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:51:43.651Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-27T03:51:44.659Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:51:44.735Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T03:51:45.612Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:51:45.682Z"}
+{"level":"info","message":"GET /catalog/bookinstances/create","timestamp":"2024-06-27T03:51:46.582Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:51:46.874Z"}
+{"level":"info","message":"POST /catalog/bookinstances/create","timestamp":"2024-06-27T03:52:07.346Z"}
+{"level":"info","message":"GET /catalog/bookinstance/667ce1e7e56165b9c243ad8d","timestamp":"2024-06-27T03:52:07.566Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:52:07.931Z"}
+{"level":"info","message":"GET /catalog/bookinstances/create","timestamp":"2024-06-27T03:52:13.068Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:52:13.275Z"}
+{"level":"info","message":"GET /catalog/genres/create","timestamp":"2024-06-27T03:52:14.889Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:52:14.957Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-27T03:52:16.176Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:52:16.240Z"}
+{"level":"info","message":"POST /catalog/authors/create","timestamp":"2024-06-27T03:52:44.431Z"}
+{"level":"error","message":"Error: Author validation failed: familyName: Path `familyName` is required., firstName: Path `firstName` is required.","timestamp":"2024-06-27T03:52:44.437Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:52:44.483Z"}
+{"level":"info","message":"GET /catalog/books/create","timestamp":"2024-06-27T03:52:49.992Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:52:50.206Z"}
+{"level":"info","message":"POST /catalog/books/create","timestamp":"2024-06-27T03:53:11.421Z"}
+{"level":"info","message":"GET /catalog/book/667ce227e56165b9c243ad95","timestamp":"2024-06-27T03:53:11.589Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:53:11.972Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-27T03:53:18.335Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:53:18.398Z"}
+{"level":"info","message":"POST /catalog/authors/create","timestamp":"2024-06-27T03:53:57.103Z"}
+{"level":"error","message":"Error: Author validation failed: familyName: Path `familyName` is required., firstName: Path `firstName` is required.","timestamp":"2024-06-27T03:53:57.108Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T03:53:57.190Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T03:58:38.661Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T04:00:04.546Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T04:00:57.826Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-27T04:01:04.207Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T04:01:05.688Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-27T04:01:10.514Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T04:01:10.617Z"}
+{"level":"info","message":"POST /catalog/authors/create","timestamp":"2024-06-27T04:01:47.989Z"}
+{"level":"info","message":"GET /catalog/author/667ce42cbc8ddc77105b71cc","timestamp":"2024-06-27T04:01:48.205Z"}
+{"level":"error","message":"Error: C:\\Users\\HUAWEI\\OneDrive\\Desktop\\codeEveryday\\MDN\\express-locallibrary-tutorial-mine\\views\\author_detail.pug:17:1\n\nOnly named blocks and mixins can appear at the top level of an extending template","timestamp":"2024-06-27T04:01:48.383Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T04:01:48.477Z"}
+{"level":"info","message":"MongoDB connected successfully!","timestamp":"2024-06-27T04:02:45.976Z"}
+{"level":"info","message":"GET /catalog","timestamp":"2024-06-27T04:02:51.754Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T04:02:53.439Z"}
+{"level":"info","message":"GET /catalog/authors/create","timestamp":"2024-06-27T04:02:55.892Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T04:02:55.983Z"}
+{"level":"info","message":"POST /catalog/authors/create","timestamp":"2024-06-27T04:04:04.499Z"}
+{"level":"info","message":"GET /catalog/author/667ce4b437448dfd22cd62fb","timestamp":"2024-06-27T04:04:04.722Z"}
+{"level":"info","message":"GET /stylesheets/style.css","timestamp":"2024-06-27T04:04:05.136Z"}
