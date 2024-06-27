@@ -1,54 +1,56 @@
 const mongoose = require("mongoose");
 const { DateTime } = require("luxon");
-const Book = require("../models/book");
 
 const AuthorSchema = new mongoose.Schema({
   firstName: {
-    // Changed from firstNmae
     type: String,
-    required: true, // Uncommented this
+    required: true,
     maxLength: 100,
   },
   familyName: {
-    // Changed from familyNmae
     type: String,
-    required: true, // Uncommented this
+    required: true,
     maxLength: 100,
   },
   date_of_birth: { type: Date },
   date_of_death: { type: Date },
 });
+
+// Virtual for author's full name
 AuthorSchema.virtual("name").get(function () {
   let fullname = "";
   if (this.firstName && this.familyName) {
-    fullname = `${this.familyName}, ${this.firstName}`; // Swapped order and fixed typos
+    fullname = `${this.familyName}, ${this.firstName}`;
+  } else if (this.firstName) {
+    fullname = `${this.firstName}`;
+  } else if (this.familyName) {
+    fullname = `${this.familyName}`;
   }
-  return fullname;
+  return fullname.trim(); // Trim any leading or trailing whitespace
 });
+
+// Virtual for author's URL
 AuthorSchema.virtual("url").get(function () {
-  return `/catalog/author/${this._id}`;
+  return `/catalog/author/${this._id.toString()}`;
 });
+
 // Virtual for author's formatted lifespan
 AuthorSchema.virtual("lifespan").get(function () {
   if (this.date_of_birth && this.date_of_death) {
-    // Format when both birth and death dates are present
     return `${DateTime.fromJSDate(this.date_of_birth).toLocaleString(
       DateTime.DATE_MED
     )} - ${DateTime.fromJSDate(this.date_of_death).toLocaleString(
       DateTime.DATE_MED
     )}`;
   } else if (this.date_of_birth) {
-    // Format when only birth date is present
     return `${DateTime.fromJSDate(this.date_of_birth).toLocaleString(
       DateTime.DATE_MED
-    )} `;
+    )}`;
   } else if (this.date_of_death) {
-    // Format when only death date is present
-    return ` ${DateTime.fromJSDate(this.date_of_death).toLocaleString(
+    return `${DateTime.fromJSDate(this.date_of_death).toLocaleString(
       DateTime.DATE_MED
     )}`;
   } else {
-    // Return an empty string if neither birth nor death dates are available
     return "";
   }
 });

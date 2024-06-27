@@ -35,4 +35,11 @@ html(lang='en')
               li
                 a(href='/catalog/bookinstances/create') Create new book instance (copy)
         div(class='col-sm-10')
+          if messages && messages.error_msg
+            .alert.alert-danger
+              = messages.error_msg
+          if messages && messages.success_msg
+            .alert.alert-success
+              = messages.success_msg
+
           block content

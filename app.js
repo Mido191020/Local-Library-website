@@ -6,6 +6,8 @@ const mongoose = require("mongoose");
 const createError = require("http-errors");
 const dotenv = require("dotenv");
 const winston = require("winston");
+const session = require("express-session");
+const flash = require("connect-flash");
 
 dotenv.config({ path: "./config.env" });
 
@@ -18,6 +20,8 @@ const homePage = require("./routes/index");
 const catalogRouter = require("./routes/catalog");
 
 const app = express();
+app.set("views", path.join(__dirname, "views"));
+app.set("view engine", "pug");
 
 // Configure Winston logger
 const logger = winston.createLogger({
@@ -46,14 +50,36 @@ app.use((req, res, next) => {
   next();
 });
 
+// Middleware setup
+app.use(morgan("dev")); // HTTP request logger middleware
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
+app.use(cookieParser());
+app.use(express.static(path.join(__dirname, "public")));
+
+// Set up express-session and connect-flash
+app.use(
+  session({
+    secret: "your_secret_key",
+    resave: false,
+    saveUninitialized: true,
+  })
+);
+app.use(flash());
+
+app.use((req, res, next) => {
+  res.locals.success_msg = req.flash("success_msg");
+  res.locals.error_msg = req.flash("error_msg");
+  next();
+});
+
 // Mount route files
-app.use("/books", booksRouter);
-app.use("/authors", authorsRouter);
-app.use("/genres", genresRouter);
-app.use("/bookinstances", bookInstancesRouter);
+app.use("/catalog/books", booksRouter);
+app.use("/catalog/authors", authorsRouter);
+app.use("/catalog/genres", genresRouter);
+app.use("/catalog/bookinstances", bookInstancesRouter);
 app.use("/", homePage);
 app.use("/catalog", catalogRouter);
-
 // DB connection
 mongoose.set("strictQuery", false);
 const DB = process.env.DATABASE;
@@ -68,17 +94,6 @@ mongoose
   .catch((err) => {
     logger.error(`MongoDB connection error: ${err.message}`);
   });
-
-// View engine setup
-app.set("views", path.join(__dirname, "views"));
-app.set("view engine", "pug");
-
-// Middleware setup
-app.use(morgan("dev")); // HTTP request logger middleware
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
-app.use(cookieParser());
-app.use(express.static(path.join(__dirname, "public")));
 
 // Catch 404 and forward to error handler
 app.use(function (req, res, next) {
