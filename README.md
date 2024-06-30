@@ -8,8 +8,6 @@ This is an Express.js application for managing a local library. The application 
 
 - Book, Author, Genre, and BookInstance models for the local library.
 - List and detail pages for all models.
-- Basic user authentication and authorization.
-- Responsive web design.
 
 ## Setup
 
